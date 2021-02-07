@@ -1,0 +1,4 @@
+1. Set time in cronjob
+--> vim /etc/crontab
+--> 0 0 0 0 0/2 /bin/sh /root/test.sh > dev/null
+    - Will execute this file every 2 minutes
