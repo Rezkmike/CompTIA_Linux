@@ -1,1 +1,1 @@
-# CompTIA_Linux-
+# CompTIA_Linux
